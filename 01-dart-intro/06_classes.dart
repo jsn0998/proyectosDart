@@ -1,4 +1,6 @@
-
+/*
+  https://dartpad.dev/
+*/
 void main(){
   // final Hero wolverine = Hero('Logan','Regeneracion');// Inicializacion de clase Hero con ejemplo 1 y ejemplo 2
 
