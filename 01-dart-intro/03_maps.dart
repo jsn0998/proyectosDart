@@ -1,3 +1,9 @@
+/*
+  https://dartpad.dev/
+
+  Mapa: Es practicamente un objeto
+*/
+
 void main(){
   final pokemon = {
     'name':'Ditto',
